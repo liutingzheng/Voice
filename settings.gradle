@@ -1,0 +1,2 @@
+include ':app', ':asr', ':tts'
+rootProject.name='Voice'
